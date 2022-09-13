@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: 1858618df98049e40b1e54cc73b7d0b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 704
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc4ea972b9f0974d9ef0f8854d73ec0
+      internalID: 389354799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 704
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045575322847a3247b671c9e266d2643
+      internalID: -1678889621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 704
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1b4505dcd8e3547b734fbe1e28ba65
+      internalID: 282850390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 704
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e6cc219003c2409bd573f327afa00
+      internalID: 2126903760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 704
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afcadf87c0d68f4aa453e1a93003ec5
+      internalID: -1997899026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 704
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7414ddb4b6c78814e9dec2e7ecb2ef76
+      internalID: -1540914280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 704
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8637bf5fb04b98640aa5a8220baca87c
+      internalID: -1445856853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 704
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b2c214670738b469aec228051ec42d
+      internalID: 333645199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 564
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889aa5081b8d0fe4e9e3ed1e48032740
+      internalID: 26978267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 564
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a4cb6bccd0c894088400a5338e2f80
+      internalID: 802532012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 564
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb17c40bd97f2449b94bb93003bd462
+      internalID: 1594492365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 564
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b67d7577de1329408da0a554409e711
+      internalID: -1915602143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 564
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b23a7ba58868a448c381b8f3b67214
+      internalID: -1796712707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 564
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ee77876dda9ca488f8954fa2bb2327
+      internalID: -140445715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_14
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 564
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d0a4bb5c40ddd4d809e74614fea8dd
+      internalID: -881314525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_15
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 564
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15e85209d9b32408ea6bc34b5c43d9
+      internalID: -1131908386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 424
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795148a480f81eb46b7d4fec2cf6d541
+      internalID: 1879552383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 424
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54960a50ce04bf9488c299a81363bb2f
+      internalID: 219995836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 424
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157a530142ede0143a8812681dff2ef7
+      internalID: -1951047841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 424
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f962022d7ffd2404d92d5fb0246ea3f6
+      internalID: -247457225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 424
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b582cb9b831ae4346869ab60033dd814
+      internalID: 953374057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_21
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 424
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6131ed244a554e9a4ed9f2b107081
+      internalID: 1550132297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_22
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 424
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aef8e1cc49756b4ca6143f6befde6c5
+      internalID: -1710217325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_23
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 424
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b7c5e25f32d494992fc7ec15ab19e0
+      internalID: -788795547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 284
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c24577ad7d4b742885bfb9a52d1c4c
+      internalID: -559902822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 284
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42847372601b5d41ab7d2f0231c4081
+      internalID: 396316794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 284
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b70f45e34743f43a0f8093cb382dbd
+      internalID: -233158274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 284
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f660149bd328b904590c830ec5332589
+      internalID: 1274861611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 284
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed23fdbc7aca8449e48ea018113440
+      internalID: 951229394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_29
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 280
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf90d89e24c02e947991915f322e886d
+      internalID: -694614827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_30
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 284
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf6496bd0b4504494d46a431ae45d1
+      internalID: -1220477391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_31
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 284
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf5109e5f2e0e242acec2b2b2dd0114
+      internalID: 472365394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74de8308658355343a14d754e1d488a2
+      internalID: -1070402212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 144
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076898472c23a1499984e629e6c866b
+      internalID: -2114088193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 144
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30640a225b1e46d498e28f5384d52205
+      internalID: -1341450033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 144
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e43221ec0dcb438693d4e66eef874
+      internalID: 219105260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_36
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 144
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dcee5755b05534ea086452747dbc85
+      internalID: 2089813027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 140
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7832e3c2eedb5f45b056755d654dfe7
+      internalID: -1342362134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_38
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 144
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7748c997a0608604fa6e6778eaaf627d
+      internalID: -146297452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_39
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 144
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1126f8a061fef4aa8dfd5720e4af14
+      internalID: -317875145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9afb94a4cfae9345800d6c362aa8eca
+      internalID: 1153975951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25852a8c8e2e94ab7f05509ac65408
+      internalID: -1904811339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77650f2222d017f40a82d38bf5837e77
+      internalID: 825244142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7b0f4123ad7ce43a7de2ea1eaffe3e
+      internalID: 321432457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_44
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea323b4a5c6145548b8829cfc9e770ec
+      internalID: -1171666273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_45
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5430ab0a016db4086e13dee7ebc5e5
+      internalID: 61440391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_46
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 4
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c93ede8f8c9940a6a4dea2d2ce0d2
+      internalID: -345186719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dominoes - Top Down 128x140_47
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 4
+        width: 56
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dbf78e9152b924485ac8e1a2f03105
+      internalID: -2081072047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dominoes - Top Down 128x140_10: 1594492365
+      Dominoes - Top Down 128x140_8: 26978267
+      Dominoes - Top Down 128x140_21: 1550132297
+      Dominoes - Top Down 128x140_17: 219995836
+      Dominoes - Top Down 128x140_5: -1540914280
+      Dominoes - Top Down 128x140_39: -317875145
+      Dominoes - Top Down 128x140_3: 2126903760
+      Dominoes - Top Down 128x140_33: -2114088193
+      Dominoes - Top Down 128x140_14: -881314525
+      Dominoes - Top Down 128x140_28: 951229394
+      Dominoes - Top Down 128x140_43: 321432457
+      Dominoes - Top Down 128x140_44: -1171666273
+      Dominoes - Top Down 128x140_24: -559902822
+      Dominoes - Top Down 128x140_11: -1915602143
+      Dominoes - Top Down 128x140_29: -694614827
+      Dominoes - Top Down 128x140_31: 472365394
+      Dominoes - Top Down 128x140_46: -345186719
+      Dominoes - Top Down 128x140_12: -1796712707
+      Dominoes - Top Down 128x140_23: -788795547
+      Dominoes - Top Down 128x140_13: -140445715
+      Dominoes - Top Down 128x140_37: -1342362134
+      Dominoes - Top Down 128x140_6: -1445856853
+      Dominoes - Top Down 128x140_0: 389354799
+      Dominoes - Top Down 128x140_32: -1070402212
+      Dominoes - Top Down 128x140_34: -1341450033
+      Dominoes - Top Down 128x140_25: 396316794
+      Dominoes - Top Down 128x140_48: -1331999693
+      Dominoes - Top Down 128x140_47: -2081072047
+      Dominoes - Top Down 128x140_26: -233158274
+      Dominoes - Top Down 128x140_42: 825244142
+      Dominoes - Top Down 128x140_4: -1997899026
+      Dominoes - Top Down 128x140_22: -1710217325
+      Dominoes - Top Down 128x140_2: 282850390
+      Dominoes - Top Down 128x140_9: 802532012
+      Dominoes - Top Down 128x140_18: -1951047841
+      Dominoes - Top Down 128x140_19: -247457225
+      Dominoes - Top Down 128x140_35: 219105260
+      Dominoes - Top Down 128x140_20: 953374057
+      Dominoes - Top Down 128x140_16: 1879552383
+      Dominoes - Top Down 128x140_27: 1274861611
+      Dominoes - Top Down 128x140_36: 2089813027
+      Dominoes - Top Down 128x140_15: -1131908386
+      Dominoes - Top Down 128x140_30: -1220477391
+      Dominoes - Top Down 128x140_1: -1678889621
+      Dominoes - Top Down 128x140_45: 61440391
+      Dominoes - Top Down 128x140_38: -146297452
+      Dominoes - Top Down 128x140_7: 333645199
+      Dominoes - Top Down 128x140_40: 1153975951
+      Dominoes - Top Down 128x140_41: -1904811339
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
